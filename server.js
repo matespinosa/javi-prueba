@@ -2,7 +2,6 @@ import express from 'express'
 import mongoose from 'mongoose'
 import Persona from './dbPersona.js';
 import Cors from 'cors'
-
 //  JAVI ADIVINA QUIÉN ES LA SIGUIENTE PERSONA !!!!
 
 // Config
